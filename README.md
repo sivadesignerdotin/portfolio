@@ -1,6 +1,6 @@
-# Siva – Freelance Web Designer & SEO Specialist
+# Sivashankar – Freelance Web Designer & SEO Specialist
 
-👋 Hi, I'm **Siva**, a freelance web designer, front-end developer, SEO expert, and digital marketer based in **Sathyamangalam, Erode, Tamil Nadu**. I build fast, mobile-friendly, SEO-optimized websites that help businesses grow online.
+👋 Hi, I'm **Sivashankar**, a freelance web designer, front-end developer, SEO expert, and digital marketer based in **Sathyamangalam, Erode, Tamil Nadu**. I build fast, mobile-friendly, SEO-optimized websites that help businesses grow online.
 
 ---
 
