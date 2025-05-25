@@ -46,6 +46,6 @@ I work with clients remotely across:
 
 ## 🔗 Let’s Work Together!
 
-If you’re looking for a **freelance web designer**, **Digital Marketer**, **front-end developer**, or **SEO expert** in **Tamil Nadu**, I’d love to hear from you.
+If you’re looking for a **freelance web designer**, **Digital Marketer**, **front-end developer**, **graphic Designer**, or **SEO expert** in **Tamil Nadu**, I’d love to hear from you.
 
 ---
