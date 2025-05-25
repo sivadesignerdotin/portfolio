@@ -6,7 +6,7 @@
 
 ## 💼 What I Do
 
-- 🌐 Static Website Design (HTML, CSS, JS)
+- 🌐 Website Design (HTML, CSS, JS)
 - 📱 Responsive Front-End Development
 - 🔍 On-Page SEO & Technical SEO
 - 📈 Digital Marketing & Google Analytics Integration
@@ -27,9 +27,9 @@
 ## 📍 Location Served
 
 I work with clients remotely across:
-- 📍 **Sathyamangalam**
 - 📍 **Erode**
 - 📍 **Coimbatore**
+- 📍 **Sathyamangalam**
 - 📍 **Tamil Nadu & PAN India**
 
 ---
@@ -46,6 +46,6 @@ I work with clients remotely across:
 
 ## 🔗 Let’s Work Together!
 
-If you’re looking for a **freelance web designer** or **SEO expert** in **Tamil Nadu**, I’d love to hear from you.
+If you’re looking for a **freelance web designer**, **Digital Marketer**, **front-end developer**, or **SEO expert** in **Tamil Nadu**, I’d love to hear from you.
 
 ---
